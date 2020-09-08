@@ -1,0 +1,65 @@
+body{
+    margin:0;
+    padding:0;
+    }
+    
+    .nav ul{
+    list-style: none;
+    background: #000000;;
+    text-align:center;
+    padding:0;
+    margin:0;
+    }
+    .nav li{
+        display:inline-block;
+    }
+    .nav a{
+        text-decoration: none;
+        color:white;
+        width:100px;
+        display:block;
+        text-align:center;
+        padding:15px;
+        font-size:17px;
+        font-family:Helvetica;
+    }
+    li{
+        display: inline;
+    }
+    h1{
+        text-align:20px right;
+        border-inline-color:black;
+        font-size:bold;
+        padding:50px;
+        text-align:center;
+    }
+    h2{
+        text-align:20px right;
+        border-inline-color:black;
+        font-size:bold;
+        padding:50px;
+        text-align:center;
+
+    }
+    .home{
+        background-image: url('./images/stop-racism-icon-motivational-poster-260nw-1011171415.webp');
+        background-size: cover;
+        height: 800px;
+        text-align: right;
+    }
+    .services{
+        background-image: url('./images/photography-idea-showing-black-white-600w-1188320389.webp');
+        background-size: cover;
+        height: 800px;
+        color: white;
+        text-align: right;
+        
+    }
+    .contact{
+        background-image:url('./images/Copy-of-SALSA-BANNER-72.png');
+        background-size: cover;
+        height: 400px;
+    }
+    .about p{
+        text-align: right;
+    }
