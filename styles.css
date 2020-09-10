@@ -60,6 +60,12 @@ body{
         background-size: cover;
         height: 400px;
     }
-    .about p{
+    /* .about p{
         text-align: right;
+    } */
+    .aboutme{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row-reverse;
+
     }
