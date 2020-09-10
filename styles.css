@@ -65,7 +65,15 @@ body{
     } */
     .aboutme{
         display: flex;
-        justify-content: space-around;
+        justify-content: space-aroundg;
         flex-direction: row-reverse;
 
+    }
+    .text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .image img{
+        height: 400px;
     }
