@@ -65,7 +65,7 @@ body{
     } */
     .aboutme{
         display: flex;
-        justify-content: space-aroundg;
+        justify-content: space-aroundgit ;
         flex-direction: row-reverse;
 
     }
