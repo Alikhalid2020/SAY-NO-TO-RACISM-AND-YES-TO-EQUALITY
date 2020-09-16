@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding:0;
+    font-size: 25px;
     }
     
     .nav ul{
@@ -44,13 +45,13 @@ body{
     .home{
         background-image: url('./images/stop-racism-icon-motivational-poster-260nw-1011171415.webp');
         background-size: cover;
-        height: 800px;
+        height:80vh;
         text-align: right;
     }
     .services{
-        background-image: url('./images/photography-idea-showing-black-white-600w-1188320389.webp');
+        background-image: url('./images/clay-banks-ySknq-1gNB4-unsplash.jpg');
         background-size: cover;
-        height: 800px;
+        height: 120vh;
         color: white;
         text-align: right;
         
